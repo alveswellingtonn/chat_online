@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "456318519869",
+    "firebase_url": "https://chatonlineflutter-53e99.firebaseio.com",
+    "project_id": "chatonlineflutter-53e99",
+    "storage_bucket": "chatonlineflutter-53e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456318519869:android:fe3e657ace26a154",
+        "android_client_info": {
+          "package_name": "br.com.wellington.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456318519869-ijb18ff16vtlsi6af50lakhslsslua9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.wellington.chat_online",
+            "certificate_hash": "04d7488e345309f4eda4f551d6defa279b38ed94"
+          }
+        },
+        {
+          "client_id": "456318519869-njbtdvb4okk23ct8mq9jq7nvgs40g5kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.wellington.chat_online",
+            "certificate_hash": "bf346239ce191d9e07aa4bf20edc4696a78518bf"
+          }
+        },
+        {
+          "client_id": "456318519869-dcft7gljugmnr1e58ljplkf2uonsrp9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfo3NwNGVPfLL3wMLlMOuO_xo5Qi272wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456318519869-dcft7gljugmnr1e58ljplkf2uonsrp9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
